@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1226" />
+      <stop offset="0.54" stop-color="#1D1E52" />
+      <stop offset="1" stop-color="#0B0D17" />
+    </linearGradient>
+    <linearGradient id="line" x1="175" y1="170" x2="1025" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5AA9FF" />
+      <stop offset="1" stop-color="#C764FF" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="42" fill="url(#bg)" />
+  <circle cx="254" cy="160" r="98" fill="#4A88FF" fill-opacity="0.28" />
+  <circle cx="946" cy="454" r="144" fill="#B265FF" fill-opacity="0.26" />
+  <path d="M174 410C278 356 379 457 481 401C574 351 620 237 728 245C838 253 876 376 986 367" stroke="url(#line)" stroke-width="10" stroke-linecap="round" />
+  <text x="130" y="255" fill="white" font-size="86" font-family="Segoe UI, Arial, sans-serif" font-weight="700">TuesFest 2026</text>
+  <text x="134" y="318" fill="#B9C8FF" font-size="32" font-family="Segoe UI, Arial, sans-serif">A3 + ICP Deployment Showcase</text>
+</svg>
